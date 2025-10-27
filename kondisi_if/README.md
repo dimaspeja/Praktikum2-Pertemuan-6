@@ -27,4 +27,13 @@ contoh:
 jika input jumlah data 4
 maka input nilai data sebanyak 4 kali
 contoh:
-masukan nilai
+masukan nilai 1 = 3
+masukan nilai 2 = 4
+masukan nilai 3 = 7
+masukan nilai 4 = 9
+data.append(nilai) agar menambahkan nilai yang di ketik di list akhir data
+Hasil: setelah loop selesai, data berisi semua angka yang dimasukkan pengguna dalam urutan input
+Memanggil metode sort() pada list data
+sort() mengurutkan list di tempat dari nilai terkecil ke terbesar secara default
+for d in data: iterasi melalui setiap elemen di data (yang sudah terurut)
+print(d) menampilkan setiap bilangan di baris baru, sehingga pengguna melihat daftar bilangan dari terkecil ke terbesar.
