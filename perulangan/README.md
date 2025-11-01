@@ -12,7 +12,7 @@ print() pindah baris
 print(i + j, end=' '): Mencetak hasil penjumlahan dengan spasi (bukan enter)
 print(): Pindah ke baris baru setelah selesai satu baris lengkap
 
-Latihan 2: Menghasilkan dan mencetak angka acak (Python)
+# Latihan 2: Menghasilkan dan mencetak angka acak (Python)
 Penjelasan Tugas
 Tugas ini bertujuan untuk membuat program Python yang dapat Menghasilkan dan mencetak angka acak antara 0-1 sebanyak n kali, tetapi hanya angka yang kurang dari 0.5 yang dihitung dan dicetak.
 Penjelasan Kode Program:
