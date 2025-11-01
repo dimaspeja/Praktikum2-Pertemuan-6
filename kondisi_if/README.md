@@ -1,4 +1,4 @@
-Latihan 1: Menentukan Bilangan Terbesar dari 4 Bilangan (Python)
+# Latihan 1: Menentukan Bilangan Terbesar dari 4 Bilangan (Python)
 Penjelasan Tugas
 Tugas ini bertujuan untuk membuat program Python yang dapat menerima empat buah input bilangan bulat dan menentukan serta mencetak bilangan mana yang memiliki nilai terbesar.
 Penjelasan Kode Program:
@@ -11,7 +11,7 @@ elif C >= A and C >= B and C >= D: Cek apakah C terbesar
 else: Jika bukan A, B, atau C, maka D pasti terbesar
 Output: Menampilkan urutan bilangan mana yang terbesar
 
-Latihan 2: Mengurutkan Data (Python)
+# Latihan 2: Mengurutkan Data (Python)
 Penjelasan Tugas
 Tugas ini bertujuan untuk membuat program Python yang dapat mengurutkan data berdasarkan input sejumlah data ( minimal 3 ), kemudian tampilkan hasilnya secara berurutan dari yang terkecil.
 
