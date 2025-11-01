@@ -1,4 +1,4 @@
-Latihan 1: perulangan bertingkat (nested loop) (Python)
+# Latihan 1: perulangan bertingkat (nested loop) (Python)
 Penjelasan Tugas
 Tugas ini bertujuan untuk membuat program Python yang dapat perulangan bertingkat (nested loop) untuk membuat pola angka.
 Penjelasan Kode Program: Struktur Perulangan:
