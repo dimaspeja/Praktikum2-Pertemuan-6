@@ -27,4 +27,4 @@ Angka dicetak
 Counter jumlah bertambah 1
 Jika angka ≥ 0.5, loop terus berjalan tanpa mencetak dan tanpa menambah counter
 
-<img src="/bukti run latihan2.py.png">
+<img width="1549" height="268" alt="bukti run latihan2 py" src="https://github.com/user-attachments/assets/1fdbbed1-2c94-4f59-955a-3a8e9fed01e8" />
