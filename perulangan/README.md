@@ -26,3 +26,5 @@ Jika angka < 0.5, maka:
 Angka dicetak
 Counter jumlah bertambah 1
 Jika angka ≥ 0.5, loop terus berjalan tanpa mencetak dan tanpa menambah counter
+
+<img src="/bukti run latihan2.py.png">
